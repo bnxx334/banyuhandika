@@ -2,10 +2,10 @@
 
 ## 🎯 About Me
 - 🎓 Fresh Graduate SMK Teknik Jaringan | MTCNA Certified
-- 💼 NOC Helpdesk Engineer @ [Nama ISP Kamu] (Bali)
-- 🏠 Homelab Enthusiast: 3x MikroTik Nodes (CHR + RB941)
-- 🚀 Currently learning: MTCRE, Python Automation, Network Monitoring
-- 🐧 Linux User (Zorin OS) exploring open-source networking tools
+- 💼 NOC Helpdesk Engineer @ [PT. BLiP Integrator Provider] (Bali)
+- 🏠 Homelab & Network Enthusiast.
+- 🚀 Currently learning: Python Automation, Network Monitoring
+- 🐧 Linux User (Ubuntu OS (GNome) exploring open-source networking tools)
 
 ## 🛠️ Tech Stack
 | Category       | Technologies                                                                 |
@@ -14,7 +14,7 @@
 | **Monitoring** | MRTG, Custom Web Dashboard, VPS-based Remote Monitoring                      |
 | **Tools**      | WinBox, PuTTY, Wireshark, VirtualBox, VMware, Figma                          |
 | **Web/Dev**    | HTML/CSS (Dashboard), Basic JavaScript, Bash Scripting                       |
-| **OS**         | Linux (Zorin OS), Windows Server, RouterOS                                   |
+| **OS**         | Linux (Debian/Ubuntu OS), Windows Server, RouterOS                           |
 
 ## 📊 Homelab Setup
 - **Core**: MikroTik CHR (VirtualBox) x2
