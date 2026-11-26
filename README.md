@@ -2,7 +2,7 @@
 
 ### NOC Helpdesk | ISP Network Operations | Aspiring Network Engineer
 
-I'm an IT enthusiast with approximately **1 year of combined experience in Network Operations Center (NOC)** across two ISP environments: GMEDIA and PT. BLiP Integrator Provider.
+I'm an IT enthusiast with approximately **1 year of combined experience in Network Operations Center (NOC)** across two ISP environments
 
 My interests revolve around network infrastructure, ISP operations, network troubleshooting, monitoring systems, and Linux-based networking.
 
@@ -12,12 +12,12 @@ I enjoy exploring how networks work, troubleshooting connectivity issues, and co
 
 ## 🧑‍💻 About Me
 
-- 🌐 Working in the **ISP / Network Operations** field.
-- 🏢 Experience at **GMEDIA** and **PT. BLiP Integrator Provider**.
-- 🔧 Interested in network troubleshooting, routing, switching, and infrastructure.
+- 🌐 Working in the **ISP / Network Operations** at Div. Technical Supp & Netwwork Operation .
+- 🏢 Experience as NOC Helpdesk
+- 🔧 Interested in network troubleshooting, routing, switching, and automation.
 - 🐧 Linux User – Ubuntu (GNOME), exploring open-source networking tools.
 - 📡 Experienced in network monitoring and operational troubleshooting.
-- 🚀 Currently learning Python Automation, Advanced Routing, and Network Monitoring.
+- 🚀 Currently learning Python Automation, Networking, Network Monitoring &  Automation
 - 🎯 Career Goal: Growing into a Network Engineer / Core Network Engineer.
 
 ---
