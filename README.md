@@ -2,7 +2,7 @@
 
 ### NOC Helpdesk | ISP Network Operations | Aspiring Network Engineer
 
-I'm an IT enthusiast with approximately **1 year of combined experience in Network Operations Center (NOC)** across two ISP environments
+I'm an Network enthusiast with approximately **1 year of combined experience in Network Operations Center (NOC) as a Helpdesk** across two ISP environments
 
 My interests revolve around network infrastructure, ISP operations, network troubleshooting, monitoring systems, and Linux-based networking.
 
