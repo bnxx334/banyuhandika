@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Banyu!
 
-### NOC Helpdesk | ISP Network Operations | Aspiring Network Engineer
+### NOC Helpdesk | ISP Network Operations | Network Enthusiast
 
 I'm an Network enthusiast with approximately **1 year of combined experience in Network Operations Center (NOC) as a Helpdesk** across two ISP environments
 
